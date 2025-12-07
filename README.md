@@ -1,5 +1,5 @@
 # PEC3: Las gafas de Manovich
-Proyecto de la PEC3 de la UOC sobre hibridación mediática según Lev Manovich, aplicado a los casos de CLO 3D y Snap Lens Studio. Incluye análisis académico, imágenes con las licencias y un trabajo digital.
+
 ## Introducción
 
 > Lev Manovich comenta en “El software toma el mando” que los medios ya no funcionan de manera aislada, sino que se hibridan a través del software [^1] [^2]. Esta convergencia permite que las disciplinas como la moda, el diseño 3D o la realidad aumentada se integren en un mismo ecosistema mediado por el código. La moda digital, en particular, se convierte en un campo privilegiado para observar cómo el software reconfigura los procesos creativos y la propia construcción de identidad.
