@@ -1,9 +1,9 @@
 # PEC3: Las gafas de Manovich
 
-Autora: Eli Aguirre
-Asignatura: Cultura Digital
-Grado: Multimedia
-Año: 2025
+**Autora**: Eli Aguirre <br>
+**Asignatura**: Cultura Digital <br>
+**Grado**: Multimedia <br>
+**Año**: 2025 <br>
 
 ## Introducción
 
